@@ -30,9 +30,6 @@ It focuses on exploring team performances, match outcomes, and player contributi
 * `matches.csv` – Match-level data (teams, venues, winners, etc.)
 * `deliveries.csv` – Ball-by-ball data (runs, wickets, players, etc.)
 
- Outcome
+  Outcome
 
 Interactive visualizations and performance insights that showcase team trends and match dynamics from the 2024 T20 World Cup.
-
-
-Would you like me to make it slightly longer and styled (with emojis, headings, and badges for GitHub)? It’ll look more professional for your profile.
